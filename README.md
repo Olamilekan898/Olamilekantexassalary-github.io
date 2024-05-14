@@ -1,28 +1,39 @@
-# Olamilekantexassalary-github.io
+### Access the Project
 
-Access the project with just one click : https://app.powerbi.com/view?r=eyJrIjoiY2I1MzMwNzItOGMxMC00NjViLTlmMjctZDdlOTg1MTNjOThmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+Explore the project with just one click: [View the project](https://app.powerbi.com/view?r=eyJrIjoiY2I1MzMwNzItOGMxMC00NjViLTlmMjctZDdlOTg1MTNjOThmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-As an analyst I spearheading the Texas State Government salary analysis data. Which I orchestrated a comprehensive approach to dissecting and visualizing salary data using advanced Power BI techniques. Central to my role was the development and implementation of a diverse range of measures to capture key salary metrics, including agency totals, average annual salaries, monthly salaries, and hourly pay rates. Each measure was meticulously crafted to provide granular insights into the intricate landscape of compensation structures within the government sector. Leveraging the advanced visualizing capabilities of Power BI, I meticulously dissected total annual salary distributions by ethnicity and gender, unveiling critical insights into potential disparities and informing targeted diversity and inclusion initiatives. Moreover, I engineered intricate visuals to showcase average annual salary distributions by ethnicity and gender, offering a comprehensive view of compensation equity across demographic lines. Additionally, I crafted visuals to dissect total annual salary distributions by hiring year, enabling precise forecasting for the next five years and empowering strategic workforce planning initiatives. Through detailed trend analysis, I identified fluctuations in employee counts by department, providing invaluable foresight into future workforce trends and potential shifts in staffing requirements over the coming years. Furthermore, I developed visuals to spotlight the top ten agencies by their average annual salary, shedding light on compensation benchmarks and highlighting areas for optimization. Additionally, I meticulously identified the highest-paid employees, providing stakeholders with crucial insights into the organization's compensation landscape. Leveraging interactive filters, I facilitated in-depth exploration of average per hour pay by ethnicity and gender, fostering transparency and equity within the organization. Moreover, I conducted comprehensive analysis of employee distributions by employment type, encompassing regular full-time, regular part-time, temporary full-time, and temporary part-time positions, enabling nuanced workforce management strategies tailored to the unique needs of each employment category. Each measure, visualization, and analysis was meticulously crafted to deliver actionable insights and drive informed decision-making within the Texas State Government, underscoring my expertise in data analysis, visualization, and strategic dec
+---
 
-*Objectives:*
-1. *Comprehensive Salary Analysis:* Conduct an in-depth analysis of Texas State Government salary data to uncover key insights and trends.
-2. *Equity and Inclusion:* Identify potential disparities in compensation based on ethnicity and gender to inform diversity and inclusion initiatives.
-3. *Strategic Workforce Planning:* Forecast future workforce trends and staffing requirements based on historical salary data and employee distributions.
-4. *Benchmarking and Optimization:* Benchmark salary levels against industry standards and identify areas for optimization to ensure competitiveness and efficiency.
-5. *Transparency and Accountability:* Foster transparency and equity within the organization by providing stakeholders with access to detailed salary data and analysis.
-6. calculating total number of employees with multiple full time job and those with multiple part time jobs.
+As an analyst, I spearheaded the Texas State Government salary analysis project, employing advanced Power BI techniques to comprehensively analyze and visualize salary data. My role involved developing a range of measures to capture key salary metrics, such as agency totals, average annual salaries, monthly salaries, and hourly pay rates. Each measure was designed to provide detailed insights into the compensation structures within the government sector.
 
-*Analysis:*
-- Utilized advanced Power BI techniques to dissect and visualize salary data, capturing key metrics such as agency totals, average annual salaries, and hourly pay rates.
-- Conducted detailed analysis of total annual salary distributions by ethnicity and gender, identifying potential disparities and informing targeted diversity initiatives.
-- Developed visuals to showcase salary distributions by hiring year, facilitating strategic workforce planning and forecasting.
-- Identified top agencies by average annual salary and highest-paid employees, providing insights for benchmarking and optimization efforts.
-- Conducted analysis of employee distributions by employment type, enabling tailored workforce management strategies.
-- calculating average pay rate by gender and ethnicity .this helps the state to strategize its salary pay structure across different ethnicity and gender.
-- 
-*Recommendations:*
-1. *Diversity and Inclusion Initiatives:* Implement targeted initiatives to address any identified disparities in compensation based on ethnicity and gender, promoting equity and inclusion.
-2. *Workforce Planning:* Use forecasting models to anticipate future workforce trends and adjust staffing strategies accordingly to optimize resource allocation.
-3. *Compensation Benchmarking:* Continuously benchmark salary levels against industry standards and adjust compensation structures as needed to remain competitive.
-4. *Transparency Measures:* Enhance transparency by providing stakeholders with access to interactive dashboards and reports showcasing detailed salary data and analysis.
-5. *Training and Development:* Provide training and support to HR professionals and decision-makers on how to effectively leverage salary data for strategic decision-making and planning.
+By leveraging Power BI's advanced visualization capabilities, I meticulously analyzed total annual salary distributions by ethnicity and gender, uncovering critical disparities and informing targeted diversity and inclusion initiatives. I also created visuals to show average annual salary distributions by ethnicity and gender, offering a thorough view of compensation equity across demographics. Additionally, I examined total annual salary distributions by hiring year, enabling precise forecasting for the next five years and supporting strategic workforce planning.
+
+Through detailed trend analysis, I tracked fluctuations in employee counts by department, offering valuable foresight into future workforce trends and potential staffing shifts. I developed visuals to highlight the top ten agencies by average annual salary, identifying compensation benchmarks and areas for optimization. Furthermore, I pinpointed the highest-paid employees, providing stakeholders with crucial insights into the compensation landscape.
+
+Interactive filters allowed for an in-depth exploration of average hourly pay by ethnicity and gender, promoting transparency and equity within the organization. I also conducted a comprehensive analysis of employee distributions by employment type, including regular full-time, regular part-time, temporary full-time, and temporary part-time positions, enabling tailored workforce management strategies.
+
+### Objectives
+
+- *Comprehensive Salary Analysis:* Conduct a detailed analysis of Texas State Government salary data to uncover key insights and trends.
+- *Equity and Inclusion:* Identify potential compensation disparities based on ethnicity and gender to inform diversity and inclusion initiatives.
+- *Strategic Workforce Planning:* Forecast future workforce trends and staffing needs based on historical salary data and employee distributions.
+- *Benchmarking and Optimization:* Benchmark salary levels against industry standards and identify areas for optimization to ensure competitiveness and efficiency.
+- *Transparency and Accountability:* Promote transparency and equity by providing stakeholders with detailed salary data and analysis.
+- *Employee Analysis:* Calculate the total number of employees with multiple full-time and part-time jobs.
+
+### Analysis
+
+- Utilized advanced Power BI techniques to analyze and visualize salary data, capturing key metrics like agency totals, average annual salaries, and hourly pay rates.
+- Conducted a detailed analysis of total annual salary distributions by ethnicity and gender, identifying potential disparities to inform diversity initiatives.
+- Developed visuals to display salary distributions by hiring year, aiding in strategic workforce planning and forecasting.
+- Identified top agencies by average annual salary and highest-paid employees, providing insights for benchmarking and optimization.
+- Analyzed employee distributions by employment type, enabling tailored workforce management strategies.
+- Calculated average pay rates by gender and ethnicity to help the state strategize its salary structure across different demographics.
+
+### Recommendations
+
+- *Diversity and Inclusion Initiatives:* Implement targeted initiatives to address identified compensation disparities, promoting equity and inclusion.
+- *Workforce Planning:* Use forecasting models to anticipate future workforce trends and adjust staffing strategies to optimize resource allocation.
+- *Compensation Benchmarking:* Continuously benchmark salary levels against industry standards and adjust compensation structures to remain competitive.
+- *Transparency Measures:* Enhance transparency by providing stakeholders with interactive dashboards and reports showcasing detailed salary data and analysis.
+- *Training and Development:* Offer training and support to HR professionals and decision-makers on effectively using salary data for strategic decision-making and planning.
